@@ -13,7 +13,7 @@ export class Home extends Component {
     posts: [],
     allPosts: [],
     pagina: 0,
-    postsPorPagina: 6,
+    postsPorPagina: 9,
     searchValue: ''
   };
 
